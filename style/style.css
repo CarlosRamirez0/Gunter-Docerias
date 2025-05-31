@@ -16,7 +16,7 @@ a{
     text-decoration: none;
 }
 body{
-    background-image: url('imagens/doce-back.jpg');
+    background-image: url('../imagens/doce-back.jpg');
 }
 .text-card p{
     color: white;
